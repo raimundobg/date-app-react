@@ -1,0 +1,184 @@
+{
+  "activities": [
+    {
+      "id": 1,
+      "name": "Visitar el Cerro San Cristóbal",
+      "category": "Outdoor",
+      "description": "Subir al Cerro San Cristóbal y disfrutar de la vista panorámica de Santiago"
+    },
+    {
+      "id": 2,
+      "name": "Picnic en Parque Bicentenario",
+      "category": "Outdoor",
+      "description": "Disfrutar de un picnic relajante en el Parque Bicentenario de Vitacura"
+    },
+    {
+      "id": 3,
+      "name": "Cena en Patio Bellavista",
+      "category": "Food",
+      "description": "Disfrutar de una cena romántica en alguno de los restaurantes de Patio Bellavista"
+    },
+    {
+      "id": 4,
+      "name": "Visitar el Museo de Bellas Artes",
+      "category": "Culture",
+      "description": "Recorrer las exposiciones del Museo Nacional de Bellas Artes"
+    },
+    {
+      "id": 5,
+      "name": "Paseo por Barrio Lastarria",
+      "category": "Culture",
+      "description": "Caminar por el histórico Barrio Lastarria y visitar sus tiendas y cafés"
+    },
+    {
+      "id": 6,
+      "name": "Cine en Costanera Center",
+      "category": "Entertainment",
+      "description": "Ver una película en los cines de Costanera Center"
+    },
+    {
+      "id": 7,
+      "name": "Sushi a domicilio y película",
+      "category": "Home",
+      "description": "Pedir sushi a domicilio y ver una película juntos en casa"
+    },
+    {
+      "id": 8,
+      "name": "Visitar viñedo en Casablanca",
+      "category": "Outdoor",
+      "description": "Hacer un tour por un viñedo en el Valle de Casablanca con degustación de vinos"
+    },
+    {
+      "id": 9,
+      "name": "Paseo en bicicleta por el Parque Metropolitano",
+      "category": "Outdoor",
+      "description": "Alquilar bicicletas y recorrer los senderos del Parque Metropolitano"
+    },
+    {
+      "id": 10,
+      "name": "Desayuno en Café Wonderful",
+      "category": "Food",
+      "description": "Disfrutar de un desayuno especial en Café Wonderful en Providencia"
+    },
+    {
+      "id": 11,
+      "name": "Visitar el Mercado Central",
+      "category": "Food",
+      "description": "Recorrer el Mercado Central y probar mariscos frescos"
+    },
+    {
+      "id": 12,
+      "name": "Trekking en Cajón del Maipo",
+      "category": "Adventure",
+      "description": "Hacer una ruta de trekking en el Cajón del Maipo"
+    },
+    {
+      "id": 13,
+      "name": "Tarde de juegos de mesa",
+      "category": "Home",
+      "description": "Disfrutar de una tarde jugando juegos de mesa en casa"
+    },
+    {
+      "id": 14,
+      "name": "Visitar el Museo Interactivo Mirador",
+      "category": "Culture",
+      "description": "Explorar las exhibiciones interactivas del MIM"
+    },
+    {
+      "id": 15,
+      "name": "Paseo por el Parque Araucano",
+      "category": "Outdoor",
+      "description": "Caminar por el Parque Araucano y disfrutar de sus áreas verdes"
+    },
+    {
+      "id": 16,
+      "name": "Concierto en vivo",
+      "category": "Entertainment",
+      "description": "Asistir a un concierto en vivo en algún bar o venue de Santiago"
+    },
+    {
+      "id": 17,
+      "name": "Clase de cocina juntos",
+      "category": "Learning",
+      "description": "Tomar una clase de cocina para parejas en Santiago"
+    },
+    {
+      "id": 18,
+      "name": "Visitar la Viña Concha y Toro",
+      "category": "Tour",
+      "description": "Hacer un tour por la Viña Concha y Toro en Pirque"
+    },
+    {
+      "id": 19,
+      "name": "Paseo por el Cerro Santa Lucía",
+      "category": "Outdoor",
+      "description": "Subir el Cerro Santa Lucía y disfrutar de sus jardines y vistas"
+    },
+    {
+      "id": 20,
+      "name": "Brunch en Café de la Candelaria",
+      "category": "Food",
+      "description": "Disfrutar de un brunch en el Café de la Candelaria en Barrio Italia"
+    },
+    {
+      "id": 21,
+      "name": "Visitar el Zoológico Metropolitano",
+      "category": "Outdoor",
+      "description": "Pasar el día en el Zoológico Metropolitano de Santiago"
+    },
+    {
+      "id": 22,
+      "name": "Noche de karaoke",
+      "category": "Entertainment",
+      "description": "Cantar en un bar de karaoke en Bellavista"
+    },
+    {
+      "id": 23,
+      "name": "Visitar el Pueblito Los Dominicos",
+      "category": "Shopping",
+      "description": "Recorrer las tiendas de artesanía del Pueblito Los Dominicos"
+    },
+    {
+      "id": 24,
+      "name": "Día de spa",
+      "category": "Wellness",
+      "description": "Disfrutar de un día de spa y masajes en pareja"
+    },
+    {
+      "id": 25,
+      "name": "Visitar el Museo de la Memoria",
+      "category": "Culture",
+      "description": "Recorrer el Museo de la Memoria y los Derechos Humanos"
+    },
+    {
+      "id": 26,
+      "name": "Paseo en teleférico",
+      "category": "Outdoor",
+      "description": "Subir al Cerro San Cristóbal en teleférico"
+    },
+    {
+      "id": 27,
+      "name": "Cata de cervezas artesanales",
+      "category": "Food",
+      "description": "Probar diferentes cervezas artesanales en un bar especializado"
+    },
+    {
+      "id": 28,
+      "name": "Visitar el Parque Quinta Normal",
+      "category": "Outdoor",
+      "description": "Pasear por el Parque Quinta Normal y visitar sus museos"
+    },
+    {
+      "id": 29,
+      "name": "Noche de comedia en vivo",
+      "category": "Entertainment",
+      "description": "Asistir a un show de stand-up comedy"
+    },
+    {
+      "id": 30,
+      "name": "Cocinar juntos en casa",
+      "category": "Home",
+      "description": "Preparar una cena especial juntos en casa"
+    }
+  ]
+}
